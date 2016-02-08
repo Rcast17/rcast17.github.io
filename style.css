@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body {background-color:lightyellow;}
+h1 {color:green;}
+h2 {color:pink;}
+h3 {color:pink;}
+#para1{
+  font-weight: 100;
+  font-family: "Lobster";
+}
+
+#para2 {
+  font-weight: 100;
+  font-family: "Lobster";
+}
+
+#para3 {
+  font-weight: 100;
+  font-family: "Lobster";
+}
+
+#para4 {
+  font-weight: 100;
+  font-family: "Lobster";
+}
+
+h1 {
+  font-family:"Lobster"
+  font-size: 60px;
+}
+
+h2 {
+  font-family: "Lobster";
+}
+
+h3 {
+  font-family: "Lobster"
+}
+
+body {
+  font-family: "Lobster" ,sans-serif;
+  font-size: 20px;
+}
