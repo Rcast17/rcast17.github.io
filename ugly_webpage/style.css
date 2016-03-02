@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+body {
+  background-color: yellow;
+}
+
+h1 {
+  font-size: 60px;
+  color: lightgreen;
+
+}
+
+h2 {
+  font-size: 10px;
+  color: pink;
+
+}
+
+h3 {
+  font-size: 100px;
+  color: pink;
+  border-left: : solid 2px black;
+  width: auto;
+  padding: 5px
+  float: right;
+  font-family: "Lobster";
+
+}
